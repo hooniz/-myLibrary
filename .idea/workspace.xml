@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="677150a4-e165-4556-a1e9-528e8b3d9e52" name="Changes" comment="Contacts page">
+      <change beforePath="$PROJECT_DIR$/app/vendor/lib/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/lib/db.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="ProjectId" id="28xoBwvogyXilmw9WlkNtw4XndF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PhpstormProjects\myLibrary\app\models" />
+      <recent name="C:\Users\Admin\PhpstormProjects\myLibrary\app\controllers" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="677150a4-e165-4556-a1e9-528e8b3d9e52" name="Changes" comment="" />
+      <created>1652167465943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652167465943</updated>
+      <workItem from="1652167467259" duration="230000" />
+      <workItem from="1652186245140" duration="4716000" />
+      <workItem from="1652286703836" duration="18000" />
+      <workItem from="1652375048168" duration="6625000" />
+      <workItem from="1652418355556" duration="112000" />
+      <workItem from="1652463731785" duration="4068000" />
+      <workItem from="1652632489434" duration="1449000" />
+      <workItem from="1652679270870" duration="3008000" />
+      <workItem from="1652851735562" duration="2587000" />
+      <workItem from="1652891518662" duration="8566000" />
+      <workItem from="1652900500031" duration="2000" />
+      <workItem from="1653041098946" duration="18000" />
+      <workItem from="1661601196365" duration="7203000" />
+      <workItem from="1661670731370" duration="647000" />
+      <workItem from="1661671596798" duration="6327000" />
+      <workItem from="1661747293776" duration="3064000" />
+      <workItem from="1662188798211" duration="4820000" />
+      <workItem from="1662279093674" duration="8691000" />
+      <workItem from="1662359235669" duration="483000" />
+      <workItem from="1662572921496" duration="4093000" />
+      <workItem from="1662617119391" duration="427000" />
+      <workItem from="1662658198511" duration="2447000" />
+      <workItem from="1662704485840" duration="605000" />
+      <workItem from="1662743121149" duration="994000" />
+      <workItem from="1662788629923" duration="2139000" />
+      <workItem from="1662979039771" duration="11000" />
+      <workItem from="1663079879183" duration="4221000" />
+      <workItem from="1663132054533" duration="18000" />
+      <workItem from="1663165790029" duration="3709000" />
+      <workItem from="1663229201658" duration="12000" />
+      <workItem from="1663252283767" duration="3880000" />
+      <workItem from="1663419479311" duration="2554000" />
+      <workItem from="1663586745126" duration="46000" />
+      <workItem from="1663598332808" duration="49000" />
+      <workItem from="1663695569339" duration="777000" />
+      <workItem from="1663741827804" duration="11000" />
+      <workItem from="1663784223335" duration="244000" />
+      <workItem from="1664016054738" duration="183000" />
+      <workItem from="1664293277961" duration="2127000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added main page">
+      <created>1652466685165</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652466685165</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added general styles for whole project">
+      <created>1652466832443</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652466832443</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added validate class">
+      <created>1652467367167</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652467367167</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added book preview on main page">
+      <created>1652632807569</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652632807569</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added auth page">
+      <created>1652854319529</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652854319529</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added registration page">
+      <created>1662194935799</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662194935799</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added filter">
+      <created>1662286655139</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662286655139</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Bugfix">
+      <created>1662573794383</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662573794383</updated>
+    </task>
+    <task id="LOCAL-00009" summary="get book">
+      <created>1662577106284</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662577106284</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Bugfix">
+      <created>1662790321321</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662790321321</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Bugfix">
+      <created>1663080474287</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663080474287</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Edit books">
+      <created>1663083972870</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663083972870</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Edit books">
+      <created>1663169507197</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663169507197</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Edit users &amp; my books">
+      <created>1663255300526</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1663255300526</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Publishers page">
+      <created>1663420460304</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1663420460304</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Contacts page">
+      <created>1663421050412</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1663421050412</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Added main page" />
+    <MESSAGE value="Added general styles for whole project" />
+    <MESSAGE value="Added validate class" />
+    <MESSAGE value="Added book preview on main page" />
+    <MESSAGE value="Added auth page" />
+    <MESSAGE value="Added registration page" />
+    <MESSAGE value="Added filter" />
+    <MESSAGE value="get book" />
+    <MESSAGE value="Bugfix" />
+    <MESSAGE value="Edit books" />
+    <MESSAGE value="Edit users &amp; my books" />
+    <MESSAGE value="Publishers page" />
+    <MESSAGE value="Contacts page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contacts page" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
